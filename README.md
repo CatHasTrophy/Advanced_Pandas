@@ -1,2 +1,5 @@
 # Advanced_Pandas
-Conquer Advanced Pandas! Feeling lost in the 2-year-old LinkedIn Learning course due to outdated functions? My companion Jupyter Notebook bridges the gap! Learn key concepts and exercises using the latest pandas functionalities. Master data manipulation, analysis, and visualization with modern approaches. Upgrade your Pandas skills now! 
+Conquer Advanced Pandas with Updated Techniques (Jupyter Notebook)
+Ever feel frustrated by outdated functions in online courses? If you're tackling the 2-year-old LinkedIn Learning "Advanced Pandas" course, you might be encountering deprecated features. To bridge that gap, I've created a comprehensive Jupyter Notebook specifically for this course!
+
+This companion notebook takes you through key concepts and exercises, ensuring you leverage the latest pandas functionalities.  Learn efficient data manipulation, analysis, and visualization using modern approaches recommended in the current pandas ecosystem.
